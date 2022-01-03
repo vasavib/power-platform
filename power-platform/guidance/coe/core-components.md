@@ -31,11 +31,11 @@ Here's a breakdown of the assets that form the core components:
   - [Admin | Sync Template v3 (flows)](#flows): All apps, cloud and desktop flows, cloud flow action details, custom connectors, connectors, model-driven apps, shared-with information, chatbots.
   - [Admin | Welcome email](#flows)
   - [Power BI dashboard](#power-bi-report)
-  - [Power Platform Admin View (model-driven app)](#apps)
+  - [Power Platform Admin View (model-driven app)](#power-platform-admin-view)
 - **Bulk change permissions for apps and flow**
-  - [Set App Permissions (canvas app)](#apps)
-  - [Set Flow Permissions (canvas app)](#apps)
-  - [App Catalog](#apps)
+  - [Set App Permissions (canvas app)](#set-app-permissions)
+  - [Set Flow Permissions (canvas app)](#set-flow-permissions)
+  - [App Catalog](#app-catalog)
 
 ## Tables
 

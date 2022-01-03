@@ -26,18 +26,19 @@ The governance components solution contains assets relevant to admins and makers
 Here's a breakdown of the assets that form the governance components:
 
 - Microsoft Teams environment management
-  - [Ask team owners to provide a business justification (flow)](#flows)
+  - [Ask team owners to provide a business justification (flow)](#microsoft-teams-admin--ask-for-business-justification-when-microsoft-teams-environment-is-created)
   - [Welcome email to new team owners (flow)](#flows)
   - [Business process flow for auditing environments](#business-process-flows)
 
 - Sample audit process
-  - [Developer Compliance Center (canvas app)](#apps)
-  - [Compliance Detail Request (flow)](#flows)
+  - [Developer Compliance Center (canvas app)](#developer-compliance-center)
+  - [Compliance Status](#compliance-status)
   - [Business process flows for auditing resources](#business-process-flows)
 
 - Archive unused apps
   - [App and Flow Archive and Clean Up – Start Approval and Check Approval (flows)](#admin--archive-and-clean-up-v2-start-approval-for-apps)
   - [App Archive and Clean Up View (canvas app)](#app-and-flow-archive-and-clean-up-view)
+  - [Clean up old objects (canvas app)](#cleanup-old-objects-app)
 
 ## Tables
 
